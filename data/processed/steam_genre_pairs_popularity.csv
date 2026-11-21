@@ -1,0 +1,93 @@
+﻿genre_1,genre_2,games_count,median_peak_ccu,mean_peak_ccu,median_avg_daily_peak,top100_games,top100_share_pct
+Action,Adventure,485,1228.0,13117.07,532.64,40,8.25
+Indie,Simulation,372,771.5,6468.28,346.82,15,4.03
+Action,Indie,368,947.5,9564.2,370.54,22,5.98
+Adventure,Indie,340,832.0,7602.63,321.12,15,4.41
+Action,RPG,331,1035.0,15466.79,465.36,32,9.67
+Adventure,RPG,330,885.5,11173.51,380.3,25,7.58
+Simulation,Strategy,309,595.0,5079.52,293.9,13,4.21
+Indie,Strategy,302,502.0,3996.93,255.49,8,2.65
+Indie,RPG,274,670.0,9676.94,273.51,17,6.2
+Casual,Indie,270,641.5,4095.68,305.43,5,1.85
+RPG,Strategy,204,490.0,6105.95,264.11,10,4.9
+Casual,Simulation,204,667.0,4345.63,322.92,7,3.43
+Action,Simulation,184,1042.0,10628.41,480.0,12,6.52
+Action,Strategy,182,587.5,12647.17,308.99,11,6.04
+Adventure,Simulation,171,1098.0,5829.52,463.2,7,4.09
+RPG,Simulation,152,775.5,9921.24,334.45,12,7.89
+Casual,Strategy,149,450.0,3618.46,210.13,3,2.01
+Adventure,Strategy,142,643.5,6595.6,311.36,7,4.93
+Adventure,Casual,141,790.0,4742.49,323.41,5,3.55
+Action,Casual,131,774.0,5069.39,262.91,4,3.05
+Free To Play,Massively Multiplayer,123,775.0,23086.96,463.2,13,10.57
+Action,Free To Play,122,1111.5,49532.2,607.8,21,17.21
+Action,Massively Multiplayer,119,1533.0,31555.39,703.82,19,15.97
+Casual,Free To Play,118,413.0,7248.6,224.31,6,5.08
+Free To Play,Indie,114,577.0,5469.98,277.46,4,3.51
+Free To Play,RPG,112,897.5,15519.82,523.36,11,9.82
+Casual,RPG,106,640.0,6400.59,300.6,4,3.77
+Free To Play,Strategy,102,485.0,16767.67,272.08,6,5.88
+Massively Multiplayer,RPG,100,1230.5,20040.64,633.67,12,12.0
+Adventure,Free To Play,90,1100.5,29588.29,614.34,15,16.67
+Early Access,Indie,89,764.0,10339.46,354.36,5,5.62
+Early Access,Simulation,87,694.0,13606.89,361.7,6,6.9
+Adventure,Massively Multiplayer,84,1805.5,33587.07,843.77,15,17.86
+Free To Play,Simulation,81,665.0,14388.98,276.44,8,9.88
+Simulation,Sports,70,647.5,7209.46,261.32,4,5.71
+Action,Early Access,63,1248.0,19243.92,494.31,6,9.52
+Indie,Massively Multiplayer,62,1084.5,18715.32,514.3,6,9.68
+Massively Multiplayer,Strategy,62,816.0,10162.89,475.18,5,8.06
+Massively Multiplayer,Simulation,58,1222.0,27266.55,504.41,9,15.52
+Racing,Simulation,50,1041.0,4529.48,575.01,3,6.0
+Early Access,Strategy,50,436.0,4855.62,250.53,2,4.0
+Casual,Massively Multiplayer,49,665.0,12815.49,235.35,5,10.2
+Adventure,Early Access,47,1034.0,7451.98,338.49,3,6.38
+Early Access,RPG,42,474.0,15614.1,250.04,4,9.52
+Racing,Sports,39,1106.0,4668.21,452.98,2,5.13
+Action,Racing,28,1825.0,13975.43,842.2,4,14.29
+Casual,Early Access,27,577.0,4459.59,338.49,1,3.7
+Indie,Racing,25,964.0,3438.8,655.44,1,4.0
+Indie,Sports,21,609.0,3304.57,258.68,1,4.76
+Casual,Sports,20,493.5,5355.2,227.16,1,5.0
+Early Access,Massively Multiplayer,20,5465.0,54310.8,2973.71,6,30.0
+Adventure,Racing,19,1845.0,17899.58,762.98,3,15.79
+Action,Sports,18,1316.5,4713.78,486.33,1,5.56
+Casual,Racing,14,1835.5,15002.57,821.09,2,14.29
+Early Access,Free To Play,14,392.5,26794.5,206.16,2,14.29
+Free To Play,Sports,13,1758.0,11602.31,498.92,1,7.69
+Sports,Strategy,13,292.0,506.62,173.64,0,0.0
+Adventure,Sports,12,1850.5,11162.83,862.74,1,8.33
+Massively Multiplayer,Racing,11,1487.0,18523.36,722.57,2,18.18
+Massively Multiplayer,Sports,11,1487.0,9716.82,722.57,1,9.09
+Free To Play,Racing,8,2150.0,25413.25,1172.59,2,25.0
+Early Access,Racing,7,1929.0,8141.0,762.98,1,14.29
+Racing,Strategy,6,1294.0,32434.0,467.18,2,33.33
+RPG,Sports,5,434.0,5400.8,210.8,0,0.0
+Early Access,Sports,4,2996.0,18395.0,1731.43,1,25.0
+RPG,Racing,3,44344.0,63836.0,27317.0,2,66.67
+Indie,Utilities,2,91686.5,91686.5,75704.24,2,100.0
+Animation & Modeling,Design & Illustration,2,71198.0,71198.0,62084.61,1,50.0
+Animation & Modeling,Video Production,2,18470.5,18470.5,13052.02,0,0.0
+Animation & Modeling,Indie,2,73356.5,73356.5,61616.45,1,50.0
+Casual,Utilities,2,63376.0,63376.0,55551.85,1,50.0
+Photo Editing,Utilities,1,126084.0,126084.0,110649.04,1,100.0
+Casual,Design & Illustration,1,126084.0,126084.0,110649.04,1,100.0
+Design & Illustration,Photo Editing,1,126084.0,126084.0,110649.04,1,100.0
+Free To Play,Utilities,1,668.0,668.0,454.66,0,0.0
+Action,Software Training,1,57289.0,57289.0,40759.44,1,100.0
+Casual,Photo Editing,1,126084.0,126084.0,110649.04,1,100.0
+Animation & Modeling,Utilities,1,126084.0,126084.0,110649.04,1,100.0
+Animation & Modeling,Photo Editing,1,126084.0,126084.0,110649.04,1,100.0
+Audio Production,Utilities,1,19021.0,19021.0,14919.05,0,0.0
+Indie,Software Training,1,57289.0,57289.0,40759.44,1,100.0
+Design & Illustration,Video Production,1,16312.0,16312.0,13520.17,0,0.0
+Action,Utilities,1,57289.0,57289.0,40759.44,1,100.0
+Software Training,Utilities,1,57289.0,57289.0,40759.44,1,100.0
+Adventure,Utilities,1,57289.0,57289.0,40759.44,1,100.0
+Design & Illustration,Indie,1,126084.0,126084.0,110649.04,1,100.0
+Indie,Video Production,1,20629.0,20629.0,12583.86,0,0.0
+Adventure,Software Training,1,57289.0,57289.0,40759.44,1,100.0
+Animation & Modeling,Casual,1,126084.0,126084.0,110649.04,1,100.0
+Utilities,Video Production,1,35043.0,35043.0,30513.08,0,0.0
+Indie,Photo Editing,1,126084.0,126084.0,110649.04,1,100.0
+Design & Illustration,Utilities,1,126084.0,126084.0,110649.04,1,100.0

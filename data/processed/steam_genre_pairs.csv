@@ -1,0 +1,93 @@
+﻿genre_1,genre_2,games_count,share_pct
+Action,Adventure,485,24.25
+Indie,Simulation,372,18.6
+Action,Indie,368,18.4
+Adventure,Indie,340,17.0
+Action,RPG,331,16.55
+Adventure,RPG,330,16.5
+Simulation,Strategy,309,15.45
+Indie,Strategy,302,15.1
+Indie,RPG,274,13.7
+Casual,Indie,270,13.5
+RPG,Strategy,204,10.2
+Casual,Simulation,204,10.2
+Action,Simulation,184,9.2
+Action,Strategy,182,9.1
+Adventure,Simulation,171,8.55
+RPG,Simulation,152,7.6
+Casual,Strategy,149,7.45
+Adventure,Strategy,142,7.1
+Adventure,Casual,141,7.05
+Action,Casual,131,6.55
+Free To Play,Massively Multiplayer,123,6.15
+Action,Free To Play,122,6.1
+Action,Massively Multiplayer,119,5.95
+Casual,Free To Play,118,5.9
+Free To Play,Indie,114,5.7
+Free To Play,RPG,112,5.6
+Casual,RPG,106,5.3
+Free To Play,Strategy,102,5.1
+Massively Multiplayer,RPG,100,5.0
+Adventure,Free To Play,90,4.5
+Early Access,Indie,89,4.45
+Early Access,Simulation,87,4.35
+Adventure,Massively Multiplayer,84,4.2
+Free To Play,Simulation,81,4.05
+Simulation,Sports,70,3.5
+Action,Early Access,63,3.15
+Massively Multiplayer,Strategy,62,3.1
+Indie,Massively Multiplayer,62,3.1
+Massively Multiplayer,Simulation,58,2.9
+Racing,Simulation,50,2.5
+Early Access,Strategy,50,2.5
+Casual,Massively Multiplayer,49,2.45
+Adventure,Early Access,47,2.35
+Early Access,RPG,42,2.1
+Racing,Sports,39,1.95
+Action,Racing,28,1.4
+Casual,Early Access,27,1.35
+Indie,Racing,25,1.25
+Indie,Sports,21,1.05
+Casual,Sports,20,1.0
+Early Access,Massively Multiplayer,20,1.0
+Adventure,Racing,19,0.95
+Action,Sports,18,0.9
+Casual,Racing,14,0.7
+Early Access,Free To Play,14,0.7
+Free To Play,Sports,13,0.65
+Sports,Strategy,13,0.65
+Adventure,Sports,12,0.6
+Massively Multiplayer,Sports,11,0.55
+Massively Multiplayer,Racing,11,0.55
+Free To Play,Racing,8,0.4
+Early Access,Racing,7,0.35
+Racing,Strategy,6,0.3
+RPG,Sports,5,0.25
+Early Access,Sports,4,0.2
+RPG,Racing,3,0.15
+Animation & Modeling,Indie,2,0.1
+Indie,Utilities,2,0.1
+Casual,Utilities,2,0.1
+Animation & Modeling,Video Production,2,0.1
+Animation & Modeling,Design & Illustration,2,0.1
+Adventure,Utilities,1,0.05
+Adventure,Software Training,1,0.05
+Design & Illustration,Video Production,1,0.05
+Indie,Video Production,1,0.05
+Indie,Software Training,1,0.05
+Animation & Modeling,Photo Editing,1,0.05
+Casual,Photo Editing,1,0.05
+Audio Production,Utilities,1,0.05
+Casual,Design & Illustration,1,0.05
+Design & Illustration,Indie,1,0.05
+Action,Software Training,1,0.05
+Design & Illustration,Photo Editing,1,0.05
+Design & Illustration,Utilities,1,0.05
+Indie,Photo Editing,1,0.05
+Animation & Modeling,Casual,1,0.05
+Action,Utilities,1,0.05
+Software Training,Utilities,1,0.05
+Free To Play,Utilities,1,0.05
+Utilities,Video Production,1,0.05
+Photo Editing,Utilities,1,0.05
+Animation & Modeling,Utilities,1,0.05
